@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method is called when  click on +3, +2 free throw points.
+     * These methods is called when  click on +3, +2 free throw points.
      */
 
     public void Points3ToTeamA(View view) {
